@@ -5,7 +5,7 @@ This project was inspired by this [video](https://www.youtube.com/watch?reload=9
 
 ## Try it out
 To view the project navigate to navigate to [https://pwjablonski.github.io/Ratios](https://pwjablonski.github.io/Ratios). 
-Play around with the slider or try typing in some of these well known numbers
+Play around with the slider or try typing in some of these well known numbers as decimals.
 
 | Fraction | Decimal |
 |-----|-----|
